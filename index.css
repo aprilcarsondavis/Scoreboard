@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background: #1B244A;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+button {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: none;
+    color: #9AABD8;
+    
+}
+
+h3 {
+    font-family: Verdana;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    leading-trim: NONE;
+    line-height: 35.89px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #eeeeee;
+}
+.score {
+    background: #080001;
+    font-family: Cursed Timer ULiL;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 90px;
+    leading-trim: NONE;
+    line-height: 126.67px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #F94F6D;
+    margin-top: -40px;
+    margin-bottom: -40px;
+}
